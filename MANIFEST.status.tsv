@@ -1,0 +1,8 @@
+﻿path	status	reason
+01_对照材料/judge_ten_v2_stdout_original.txt	MISSING_NOT_CREATED	original_stdout_not_available
+01_对照材料/SHA256.txt	COPIED_IDENTICAL	2B0539E6E796149ABC86FFA954F2C66AC2F480F6662F312C8817662101B00465
+hash_discrepancy	REGISTERED_NOT_ADJUDICATED	a17e4821_vs_76f6ad17_not_adjudicated
+independent_review	PENDING	not_started
+approval	PENDING	not_started
+layer_B	NOT_COVERED	original_stdout_missing
+baseline_record_corrected	false	not_checked_by_publisher
