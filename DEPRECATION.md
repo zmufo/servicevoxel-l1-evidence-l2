@@ -1,7 +1,7 @@
 # DEPRECATION NOTICE — ServiceVoxel v1.0 → v2.0
 
 日期：2026-11-27
-适用：servicevoxel-ledger / servicevoxel-l1-evidence / servicevoxel-l1-evidence-l2
+适用仓库：servicevoxel-ledger / servicevoxel-l1-evidence / servicevoxel-l1-evidence-l2
 
 ## 发生了什么
 v1.0 把体元定义为“业务事实正向校验闸门”，用哈希、时间戳、内部事实切片做锚点。
